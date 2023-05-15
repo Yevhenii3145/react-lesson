@@ -9,7 +9,7 @@ function App() {
   const [topCar] = items.filter((item) => item.istop);
 
   return (
-    <div className="App">
+    <div>
       <Header text={"Дошка оголошень"} />
       <div className={styles.containerCar}>
         <CarItem item={topCar} />
