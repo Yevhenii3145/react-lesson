@@ -1,0 +1,56 @@
+[
+    {
+        "_id": "1",
+        "title": "Chevrolet Camaro",
+        "imageUrl": "https://klike.net/uploads/posts/2019-05/1559021799_1.jpg",
+        "color": "orange",
+        "raiting": "1493",
+        "istop": false,
+        "sold": false
+    },
+    {
+        "_id": "2",
+        "title": "Bugatti GT 1:24",
+        "imageUrl": "https://klike.net/uploads/posts/2019-05/medium/1559021804_2.jpg",
+        "color": "blue",
+        "raiting": "3346",
+        "istop": false,
+        "sold": false
+    },
+    {
+        "_id": "3",
+        "title": "Mustang GT500",
+        "imageUrl": "https://klike.net/uploads/posts/2019-05/1559021814_10.jpg",
+        "color": "black",
+        "raiting": "2271",
+        "istop": false,
+        "sold": false
+    },
+    {
+        "_id": "4",
+        "title": "Audi R8 Coupé MY19",
+        "imageUrl": "https://klike.net/uploads/posts/2019-05/1559021887_14.jpg",
+        "color": "red",
+        "raiting": "3041",
+        "istop": false,
+        "sold": false
+    },
+    {
+        "_id": "5",
+        "title": "Ferrari",
+        "imageUrl": "https://klike.net/uploads/posts/2022-08/1661680352_j-13.jpg",
+        "color": "red",
+        "raiting": "3154",
+        "istop": false,
+        "sold": false
+    },
+    {
+        "_id": "6",
+        "title": "Turbo Jiga ;)",
+        "imageUrl": "https://klike.net/uploads/posts/2019-05/medium/1559021828_8.jpg",
+        "color": "green",
+        "raiting": "9999",
+        "istop": true,
+        "sold": true
+    }
+]

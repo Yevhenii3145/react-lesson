@@ -1,0 +1,8 @@
+.containerCar {
+  display: flex;
+  border: black;
+}
+
+.carList {
+  display: flex;
+}
